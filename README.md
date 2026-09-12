@@ -17,4 +17,4 @@ SQL-based analysis of an e-commerce dataset to understand sales, revenue, custom
 
 ## Report
 
-[E-commerce Analysis Report](E-commerce_Analysis_Repor.pdf)
+[E-commerce Analysis Report](E-commerce Analysis Report.pdf)
