@@ -16,5 +16,4 @@ SQL-based analysis of an e-commerce dataset to understand sales, revenue, custom
 - Sales and business trends
 
 ## Report
-
-https://github.com/nakultyagiNJF/E-commerce-Analysis-Report/tree/main
+E-commerce Analysis Report.pdf
