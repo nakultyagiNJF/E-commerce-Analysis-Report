@@ -16,4 +16,5 @@ SQL-based analysis of an e-commerce dataset to understand sales, revenue, custom
 - Sales and business trends
 
 ## Report
-E-commerce Analysis Report.pdf
+E-commerce Analysis Report.pdf 
+ Project Files/Dataset link -- https://drive.google.com/drive/folders/1SzEMV5UUQIpwXsKYFGm0mq4J-115qmRi
